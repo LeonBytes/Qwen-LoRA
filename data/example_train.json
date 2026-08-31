@@ -1,0 +1,28 @@
+[
+  {
+    "image": "example_001.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nLocate all class_a and class_b objects in this image and output their bbox coordinates in JSON format."
+      },
+      {
+        "from": "gpt",
+        "value": "{\"class_a\":[[35,48,180,240],[225,60,390,275],[430,95,610,320]],\"class_b\":[[70,310,245,465],[330,345,560,510]]}"
+      }
+    ]
+  },
+  {
+    "image": "example_002.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nLocate all class_a and class_b objects in this image and output their bbox coordinates in JSON format."
+      },
+      {
+        "from": "gpt",
+        "value": "{\"class_a\":[[22,30,160,190],[190,45,350,225]],\"class_b\":[[55,250,210,410],[260,270,420,440],[455,300,620,500]]}"
+      }
+    ]
+  }
+]

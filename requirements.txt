@@ -1,0 +1,11 @@
+accelerate>=0.26.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+peft>=0.10.0
+pillow>=10.0.0
+qwen-vl-utils[decord]==0.0.8
+tensorboard>=2.14.0
+torch>=2.1.0
+tqdm>=4.66.0
+transformers>=4.49.0
+
