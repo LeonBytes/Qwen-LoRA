@@ -14,7 +14,7 @@ Class names are configured in JSON and are not hard-coded in Python.
 
 ![Online reference image showing object detection visualization](assets/example.jpg)
 
-> Image source: online; original URL and license information still need to be added. Before publishing the repository, provide the original source and license, or replace this file with an image you have permission to redistribute.
+
 
 ## Features
 
